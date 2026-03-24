@@ -1,0 +1,104 @@
+<div class="container">
+	<!-- Pricing Text -->
+
+	<!-- Pricing Cards -->
+	<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+		<div class="col">
+			<div class="card mb-4 rounded-3 shadow-sm">
+				<div class="card-header py-3">
+					<h4 class="my-0 fw-normal">ឪសថស្ថាន</h4>
+				</div>
+				<div class="card-body">
+					<h3 class="card-title pricing-card-title">
+						$15<small class="text-muted fw-light">/mo</small>
+					</h3>
+					<ul class="list-unstyled mt-3 mb-4">
+						<li class="text-primary mb-2">មុខងារសំខាន់ៗ</li>
+
+						<li>20 users included</li>
+						<li>10 GB of storage</li>
+						<li>Priority email support</li>
+						<li>Help center access</li>
+					</ul>
+					<button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
+				</div>
+			</div>
+		</div>
+		<div class="col">
+			<div class="card mb-4 rounded-3 shadow-sm">
+				<div class="card-header py-3">
+					<h4 class="my-0 fw-normal">មន្ទីរពិសោធន៍</h4>
+				</div>
+				<div class="card-body">
+					<h3 class="card-title pricing-card-title">
+						$29<small class="text-muted fw-light">/mo</small>
+					</h3>
+					<ul class="list-unstyled mt-3 mb-4">
+						<li>30 users included</li>
+						<li>15 GB of storage</li>
+						<li>Phone and email support</li>
+						<li>Help center access</li>
+					</ul>
+					<button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
+				</div>
+			</div>
+		</div>
+		<div class="col">
+			<div class="card mb-4 rounded-3 shadow-sm">
+				<div class="card-header py-3">
+					<h4 class="my-0 fw-normal">បន្ទប់ពិគ្រោះ</h4>
+				</div>
+				<div class="card-body">
+					<h3 class="card-title pricing-card-title">
+						$29<small class="text-muted fw-light">/mo</small>
+					</h3>
+					<ul class="list-unstyled mt-3 mb-4">
+						<li>30 users included</li>
+						<li>15 GB of storage</li>
+						<li>Phone and email support</li>
+						<li>Help center access</li>
+					</ul>
+					<button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
+				</div>
+			</div>
+		</div>
+		<div class="col">
+			<div class="card mb-4 rounded-3 shadow-sm">
+				<div class="card-header py-3">
+					<h4 class="my-0 fw-normal">បន្ទប់ពិគ្រោះ-ព្យាបាល</h4>
+				</div>
+				<div class="card-body">
+					<h3 class="card-title pricing-card-title">
+						$29<small class="text-muted fw-light">/mo</small>
+					</h3>
+					<ul class="list-unstyled mt-3 mb-4">
+						<li>30 users included</li>
+						<li>15 GB of storage</li>
+						<li>Phone and email support</li>
+						<li>Help center access</li>
+					</ul>
+					<button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
+				</div>
+			</div>
+		</div>
+		<div class="col">
+			<div class="card mb-4 rounded-3 shadow-sm">
+				<div class="card-header py-3">
+					<h4 class="my-0 fw-normal">មន្ទីរសម្រាក-សម្ភព</h4>
+				</div>
+				<div class="card-body">
+					<h3 class="card-title pricing-card-title">
+						$29<small class="text-muted fw-light">/mo</small>
+					</h3>
+					<ul class="list-unstyled mt-3 mb-4">
+						<li>30 users included</li>
+						<li>15 GB of storage</li>
+						<li>Phone and email support</li>
+						<li>Help center access</li>
+					</ul>
+					<button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

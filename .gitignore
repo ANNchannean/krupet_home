@@ -1,0 +1,25 @@
+.DS_Store
+.env
+node_modules
+/.svelte-kit
+/package
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+db-data
+mysql-data
+.pnpm-store
+caddy_config
+caddy_data
+caddy
+letsencrypt
+.idea
+.env.local
+.env.*.local
+# Exclude generated env types file
+env.d.ts
+/uploads
+.terraform
+build
+GeoLite2-Country.mmdb
+geoip
+/localhost
