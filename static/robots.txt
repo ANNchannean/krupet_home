@@ -1,5 +1,20 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 
+# Allow all crawlers
+Allow: /
+
+# Disallow sensitive paths
 Disallow: /analytics.json
 Disallow: /current-visitors.json
+Disallow: /api/
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /login/
+Disallow: /register/
+
+# Sitemap location
+Sitemap: https://krupet.com/sitemap.xml
+
+# Crawl delay (optional, be considerate to server)
+Crawl-delay: 1

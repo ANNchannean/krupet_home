@@ -1,15 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://krupet.com/</loc>
     <lastmod>2024-12-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="km" href="https://krupet.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://krupet.com/?lang=en"/>
   </url>
   <url>
-    <loc>https://krupet.com/policy</loc>
+    <loc>https://krupet.com/#services</loc>
     <lastmod>2024-12-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="km" href="https://krupet.com/#services"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://krupet.com/?lang=en#services"/>
+  </url>
+  <url>
+    <loc>https://krupet.com/#departments</loc>
+    <lastmod>2024-12-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="km" href="https://krupet.com/#departments"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://krupet.com/?lang=en#departments"/>
+  </url>
+  <url>
+    <loc>https://krupet.com/#doctors</loc>
+    <lastmod>2024-12-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="km" href="https://krupet.com/#doctors"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://krupet.com/?lang=en#doctors"/>
+  </url>
+  <url>
+    <loc>https://krupet.com/#report</loc>
+    <lastmod>2024-12-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="km" href="https://krupet.com/#report"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://krupet.com/?lang=en#report"/>
+  </url>
+  <url>
+    <loc>https://krupet.com/#faq</loc>
+    <lastmod>2024-12-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="km" href="https://krupet.com/#faq"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://krupet.com/?lang=en#faq"/>
+  </url>
+  <url>
+    <loc>https://demo.krupet.com/</loc>
+    <lastmod>2024-12-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
 </urlset>
