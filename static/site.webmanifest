@@ -1,11 +1,12 @@
 {
-  "name": "lekhapet - Hospital Management System",
+  "name": "ប្រព័ន្ធគ្រប់គ្រងមន្ទីរពេទ្យ | lekhapet",
   "short_name": "lekhapet",
-  "description": "Comprehensive hospital management system for healthcare providers in Cambodia",
+  "description": "ប្រព័ន្ធគ្រប់គ្រងមន្ទីរពេទ្យ lekhapet សម្រាប់ស្ថាប័នសុខភាពនៅកម្ពុជា",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d6efd",
+  "lang": "km",
   "icons": [
     {
       "src": "/logo_lekhapet.webp",

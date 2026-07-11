@@ -5,9 +5,9 @@
   let { children }: Props = $props();
 
   const siteUrl = "https://lekhapet.com";
-  const siteName = "lekhapet - ប្រព័ន្ធគ្រប់គ្រងមន្ទីរពេទ្យ";
+  const siteName = "ប្រព័ន្ធគ្រប់គ្រងមន្ទីរពេទ្យ | លេខាពេទ្យ - lekhapet";
   const siteDescription =
-    "ប្រព័ន្ធគ្រប់គ្រងមន្ទីរពេទ្យ lekhapet ផ្តល់សេវាកម្មគ្រប់គ្រងអ្នកជំងឺ ឱសថស្ថាន មន្ទីរពិសោធន៍ និងសេវាកម្មសុខាភិបាលទាំងអស់";
+    "ប្រព័ន្ធគ្រប់គ្រងមន្ទីរពេទ្យ lekhapet ជាកម្មវិធីឌីជីថលសម្រាប់គ្រប់គ្រងអ្នកជំងឺ ឱសថស្ថាន មន្ទីរពិសោធន៍ បំណុល និងសេវាកម្មសុខភាពទាំងអស់នៅកម្ពុជា។ សូមស្វាគមន៍សាកល្បងឥតគិតថ្លៃ។";
   const ogImage = `${siteUrl}/assets/img/tiumnel.png`;
   const twitterHandle = "@lekhapet";
 
@@ -43,11 +43,11 @@
   const softwareSchema = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    name: "lekhapet Hospital Management System",
+    name: "lekhapet - ប្រព័ន្ធគ្រប់គ្រងមន្ទីរពេទ្យ",
     applicationCategory: "BusinessApplication",
     operatingSystem: "Web",
     description:
-      "Comprehensive hospital management system (HMS) for healthcare providers in Cambodia, including patient registration, pharmacy management, laboratory management, and billing.",
+      "ប្រព័ន្ធគ្រប់គ្រងមន្ទីរពេទ្យ lekhapet សម្រាប់ស្ថាប័នសុខភាពនៅកម្ពុជា រួមមានការចុះឈ្មោះអ្នកជំងឺ ការគ្រប់គ្រងឱសថស្ថាន មន្ទីរពិសោធន៍ និងការទូទាត់។ Comprehensive hospital management system (HMS) for healthcare providers in Cambodia.",
     offers: {
       "@type": "Offer",
       price: "0",
@@ -95,7 +95,6 @@
 
   <!-- Hreflang for multilingual -->
   <link rel="alternate" hreflang="km" href={siteUrl} />
-  <link rel="alternate" hreflang="en" href={`${siteUrl}?lang=en`} />
   <link rel="alternate" hreflang="x-default" href={siteUrl} />
 
   <!-- JSON-LD Structured Data -->

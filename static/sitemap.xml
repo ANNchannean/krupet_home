@@ -3,55 +3,15 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lekhapet.com/</loc>
-    <lastmod>2024-12-28</lastmod>
+    <lastmod>2025-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="km" href="https://lekhapet.com/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://lekhapet.com/?lang=en"/>
-  </url>
-  <url>
-    <loc>https://lekhapet.com/#services</loc>
-    <lastmod>2024-12-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="km" href="https://lekhapet.com/#services"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://lekhapet.com/?lang=en#services"/>
-  </url>
-  <url>
-    <loc>https://lekhapet.com/#departments</loc>
-    <lastmod>2024-12-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="km" href="https://lekhapet.com/#departments"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://lekhapet.com/?lang=en#departments"/>
-  </url>
-  <url>
-    <loc>https://lekhapet.com/#doctors</loc>
-    <lastmod>2024-12-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="km" href="https://lekhapet.com/#doctors"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://lekhapet.com/?lang=en#doctors"/>
-  </url>
-  <url>
-    <loc>https://lekhapet.com/#report</loc>
-    <lastmod>2024-12-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="km" href="https://lekhapet.com/#report"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://lekhapet.com/?lang=en#report"/>
-  </url>
-  <url>
-    <loc>https://lekhapet.com/#faq</loc>
-    <lastmod>2024-12-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="km" href="https://lekhapet.com/#faq"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://lekhapet.com/?lang=en#faq"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lekhapet.com/"/>
   </url>
   <url>
     <loc>https://demo.lekhapet.com/</loc>
-    <lastmod>2024-12-28</lastmod>
+    <lastmod>2025-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
